@@ -1,0 +1,25 @@
+.item{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+
+.item-name{
+    color: blue;
+    font-weight: 400;
+}
+
+.space{
+    padding-left: 50px;
+}
+
+.main-button{
+    background-color: gold;
+    width: 150px;
+    height: 30px;
+    border: 1px solid goldenrod;
+    border-radius: 5px;
+    cursor: pointer;
+}
